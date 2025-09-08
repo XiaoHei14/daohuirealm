@@ -24,7 +24,6 @@ export default function Profile() {
 
   const socialLinks = [
     { name: "GitHub", icon: <Github className="w-6 h-6" />, url: "https://github.com/XiaoHei14" },
-    { name: "Twitter", icon: <Twitter className="w-6 h-6" />, url: "https://twitter.com/daohui587" },
     { name: "LinkedIn", icon: <Linkedin className="w-6 h-6" />, url: "https://www.linkedin.com/in/yun-hao-wang/" },
   ];
 
